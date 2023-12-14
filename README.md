@@ -2,12 +2,6 @@
 
 ## Overview
 
-This project is a JavaScript-based Sudoku solver designed to efficiently solve 9x9 Sudoku puzzles. The solver utilizes a logical approach to deduce and fill in missing values within the puzzle grid. The project also includes features for representation, interpretation of puzzle states, and provides a structured solution.
-
-# Sudoku Solver Project
-
-## Overview
-
 This JavaScript-based Sudoku solver project employs functions, arrays, and looping structures to efficiently solve 9x9 Sudoku puzzles. The solver follows a logical approach to deduce and fill in missing values within the puzzle grid.
 
 ## Features
