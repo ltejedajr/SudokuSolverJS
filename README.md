@@ -38,7 +38,7 @@ For example, consider the puzzle:
 6  - - - - 9 - - - -
 7  - - 1 - - - - 9 8
 8  - 6 - 2 - - 4 - -
-0  0 1 2 3 4 5 6 7 8
+   0 1 2 3 4 5 6 7 8
 ```
 
 - Column 2 has a value of 5.
