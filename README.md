@@ -36,8 +36,5 @@ To run the project, follow these steps:
 - The `solution` array provides the solution to the Sudoku puzzle.
 
 Feel free to explore and use the solver for solving other Sudoku puzzles.
-<<<<<<< HEAD
 
-![NamasteSudokuSS](NamasteSudokuGame.png)
-=======
->>>>>>> 3f9d213898cbc8202c66cbae8274774362daa701
+![namasteSudokuGameSS](images/NamasteSudokuGame.png)
