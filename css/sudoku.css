@@ -1,0 +1,83 @@
+h1 {
+    margin-top: 30px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(255, 244, 198);
+}
+
+hr {
+    border-color: black;
+    width: 500px;
+}
+
+#errors {
+    color: coral;
+}
+
+/* 450px / 50px = 9px (9x9 Board) */
+#board {
+    width: 450px;
+    height: 450px;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+/* Each tile must be 50px but in order to 
+get this result, width and height must be 
+48px with border of 1px */
+.tile {
+    width: 48px;
+    height: 48px;
+    border: 1px solid rgb(183, 169, 110);
+
+    /* Text */
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#digits {
+    width: 450px;
+    height: 50px;
+
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.number {
+    width: 44px;
+    height: 44px;
+    border: 1px solid black;
+    margin: 2px;
+
+    /* Text */
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.number-selected {
+    background-color: rgb(212, 202, 163);
+}
+
+.tile-start {
+    background-color: rgb(212, 202, 163);
+}
+
+.horizontal-line {
+    border-bottom: 1px solid black;
+}
+
+.vertical-line {
+    border-right: 1px solid black;
+}
