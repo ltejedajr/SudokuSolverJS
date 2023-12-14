@@ -150,3 +150,5 @@ console.log(solution);
 - The `solution` array provides the solution to the Sudoku puzzle.
 
 Feel free to explore and use the solver for solving other Sudoku puzzles.
+
+![NamasteSudokuSS](NamasteSudokuGame.png)
